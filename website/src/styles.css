@@ -1,0 +1,10 @@
+:root { --bg:#0b0b0f; --fg:#e7e7ee; --accent:#8a5cff; --accent2:#3cff7d; }
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,Segoe UI,Roboto,Helvetica,Arial}
+.wrap{max-width:900px;margin:48px auto;padding:0 20px}
+h1{font-size:2.2rem;margin:0 0 8px}
+h2{margin-top:32px}
+a{color:var(--accent2);text-decoration:none;border-bottom:1px dotted currentColor}
+a:hover{opacity:.9}
+.cta{display:flex;gap:12px;flex-wrap:wrap;margin:16px 0 24px}
+.cta a{padding:10px 14px;border:1px solid #2a2a34;border-radius:10px;background:#141420}
