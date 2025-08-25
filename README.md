@@ -1,5 +1,7 @@
 # Dank Troll Hunt (DTH) 🧌
 
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blue)](./SECURITY.md)
+
 **Dank Troll Hunt** ($DTH) is a MemeFi AR game + staking ecosystem built to combine **Pokémon Go nostalgia, troll culture, and Web3 staking mechanics** into one CEX-ready project.  
 
 ## 🌟 Core Utilities
